@@ -1,0 +1,6 @@
+{
+  "name": "Jupay Smart Ticketing",
+  "description": "Integrated complaint ticketing, transaction auto-fill, live SLA countdowns, and active-only staff routing inside the Jupay Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
